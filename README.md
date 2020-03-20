@@ -26,7 +26,7 @@ defined by the following equalities
 |c3 = r1|
 
 
-For a 4  4 grid, you may have the following matrix
+For a 4 x 4 grid, you may have the following matrix
  
 |     | c1  | c2  | c3  | c4 |
 | --- | --- | --- | --- | ---|
